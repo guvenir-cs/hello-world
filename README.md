@@ -1,2 +1,2 @@
 # hello-world
-Class'cal hello-world program
+Classical hello-world program
